@@ -5,9 +5,9 @@ This is a collection of Tutorials exploring scientific computing and topics in p
 [Get started with GitHub](github.md)
 
 # Scientific Computing and Programming
-1. [Monte Carlo estimation of π](Programming_and_Scientific_Computing/1_MonteCarlo) 
-2. [Building a sine calculator](Programming_and_Scientific_Computing/2_SineCalculator) 
-3. [Handling and Analyzing data](Programming_and_Scientific_Computing/3_DataAnalysis) 
+1. [Monte Carlo estimation of π](Programming_and_Scientific_Computing/1_MonteCarlo/instructions.md) 
+2. [Building a sine calculator](Programming_and_Scientific_Computing/2_SineCalculator/instructions.md) 
+3. [Handling and Analyzing data](Programming_and_Scientific_Computing/3_DataAnalysis/instructions.md) 
 
 # Light-Matter Interactions
 
